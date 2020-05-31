@@ -1,0 +1,4 @@
+submission*.csv
+tests/*
+logs/*
+dataset/*
